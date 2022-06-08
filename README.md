@@ -66,6 +66,7 @@
   <p align="center">
     <img width="400" height="350" src="https://user-images.githubusercontent.com/67929106/172576259-65a40857-c796-4a1d-bf0b-a311349c3207.png">
   </p>
+  
   ##### The yellow circles indicate the possible moves that you are allowed to make
   
   By clicking on the Indication button the program displays a position
