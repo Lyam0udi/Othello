@@ -66,13 +66,14 @@
   <p align="center">
     <img width="400" height="350" src="https://user-images.githubusercontent.com/67929106/172576259-65a40857-c796-4a1d-bf0b-a311349c3207.png">
   </p>
-  ###### The yellow circles indicate the possible moves that you are allowed to make
+  ##### The yellow circles indicate the possible moves that you are allowed to make
   
   By clicking on the Indication button the program displays a position
   <p align="center">
     <img width="400" height="350" src="https://user-images.githubusercontent.com/67929106/172576284-95bb41c7-3c7f-4926-83ef-5e170e470a68.png">
   </p>
-  ###### the Cancel button "Annuler" is now enabled
+  
+  ##### the Cancel button "Annuler" is now enabled
   
   In the event that someone wins, it is displayed via a message, in our case it is the human who has won :
   <p align="center">
